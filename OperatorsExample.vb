@@ -28,6 +28,8 @@ Module OperatorsExample
 
         'Concatination
         Console.WriteLine("Hello" & " World")
+        'You can concatinate things with an addition sign as long as they are the same type
+        Console.WriteLine("Hello" + " World")
 
 
         'Comparisons
