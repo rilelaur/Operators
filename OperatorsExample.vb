@@ -1,4 +1,11 @@
-﻿Option Compare Binary
+﻿'Laura Riley
+'RCET0265
+'Spring2021
+'Operators
+'https://github.com/rilelaur/Operators.git
+
+
+Option Compare Binary
 Module OperatorsExample
 
     Sub Main()
